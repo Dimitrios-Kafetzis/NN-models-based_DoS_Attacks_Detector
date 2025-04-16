@@ -285,6 +285,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Dimitrios Kafetzis - dkafetzis@aueb.gr
+Dimitrios Kafetzis - kafetzis@aueb.gr
 
 Project Link: [https://github.com/Dimitrios-Kafetzis/NN-models-based_DoS_Attacks_Detector](https://github.com/Dimitrios-Kafetzis/NN-models-based_DoS_Attacks_Detector)
